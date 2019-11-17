@@ -32,7 +32,7 @@ The exact schedule is still TBD, but the class will feature lectures from the in
 At the end of the class, each student will have:
 
 * GitHub account + sofware / data repos resulting from class work
-* Google Scholar account
+* A professional identity, via a Google Scholar account, Twitter account, LinkedIn account, etc.
 * At least one submitted proposal to an external agency
 * At least one published technical report at [arXiv.org](https://www.arxiv.org), co-authored with Dr. Nelson and possibly other faculty and students from the [Web Sciences and Digital Libraries Research Group](http://ws-dl.cs.odu.edu)
 
