@@ -11,7 +11,7 @@ Pre-/Co-requisites: CS 330, CS 300T
 
 ### Class Goals
 
-This class is intended for academic juniors considering a career in research in data and web science.  Since research is not a solitary activity, class work will occur in groups.  To prepare students for a research career, we will cover a range of topics including:
+This class is intended for academic juniors (or higher) considering a career in research in data and web science.  Since research is not a solitary activity, class work will occur in groups.  To prepare students for a research career, we will cover a range of topics including:
 
 * Data management and software engineering tools: Git/GitHub, Docker, Travis CI, cloud computing, virtual machines, etc.
 
