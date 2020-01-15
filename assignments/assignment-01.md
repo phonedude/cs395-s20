@@ -16,6 +16,8 @@ There are multiple parts:
 
 * Create a ResearchGate account.
 
+* Create a SlideShare account.
+
 * Create (if you do not already have one) a LinkedIn account.
 
 * Create a GitHub account.  Using this GitHub account, fork my repository, create a directory named with your GitHub account name inside my "submissions" with a markdown file that lists links to all of the above accounts.  Your submission will be of the form: ".../cs395-s20/submissions/YOURACCTNAME/assignment-01/index.md" and submitted via a pull request.  
