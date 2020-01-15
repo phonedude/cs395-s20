@@ -33,9 +33,9 @@ This class is intended for academic juniors (or higher) considering a career in 
 Note: this class schedule is subject to change.  Watch the class repo and monitor the class email list for updates.
 
 * 2020-01-15: Administrivia, scholarly communication, web science, research and grad school
-  * assignment 1: research identity, VSGC proposal
+  * [assignment 1: research identity, VSGC proposal](assignments/assignment-01.md)
 * 2020-01-22: Web Science, Python, R, Git/GitHub
-  * assignment 2: VSGC status presentation
+  * [assignment 2: VSGC status presentation](assignments/assignment-02.md)
 * 2020-01-29: HTTP mechanics, web archiving, reproducibility
   * assignment 3: VSGC status presentation & submission (Jan 31)
 * 2020-02-05: Guest lecture (MLN traveling): AWS, Docker, LaTeX/Interleaf, CLI
@@ -66,7 +66,7 @@ At the end of the class, each student will have:
 
 * GitHub account + software / data repos resulting from class work
 * A professional identity, via a Google Scholar account, Twitter account, LinkedIn account, etc.
-* Two submitted (or ready to submit, pending the solicitation's availability) proposals: [Virginia Space Grant Consortium](http://vsgc.odu.edu/scholarships-fellowships/)(VSGC) and the [National Science Foundation (NSF) Graduate Research Fellowship Program (GRFP)](https://www.nsf.gov/pubs/2019/nsf19590/nsf19590.htm)
+* Two submitted (or ready to submit, pending the solicitation's availability) proposals: [Virginia Space Grant Consortium](http://vsgc.odu.edu/scholarships-fellowships/) (VSGC) and the [National Science Foundation (NSF) Graduate Research Fellowship Program (GRFP)](https://www.nsf.gov/pubs/2019/nsf19590/nsf19590.htm)
 * One published technical report at [arXiv.org](https://www.arxiv.org), co-authored with Dr. Nelson and possibly other faculty and students from the [Web Sciences and Digital Libraries Research Group](https://ws-dl.cs.odu.edu/Main/People). 
 
 ### Class Grading 
