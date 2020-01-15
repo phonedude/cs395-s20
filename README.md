@@ -16,7 +16,7 @@ Pre-/Co-requisites: CS 330, CS 300T
 
 ### Class Goals
 
-This class is intended for academic juniors or seniors considering a research career in data and web science.  Since research is not a solitary activity, class work will occur in groups.  To prepare students for a research career, we will cover a range of topics, likely including:
+This class is intended for academic juniors (or higher) considering a career in research in data and web science.  Since research is not a solitary activity, class work will occur in groups.  To prepare students for a research career, we will cover a range of topics including:
 
 * Data management and software engineering tools: Git/GitHub, Docker, Travis CI, cloud computing, virtual machines, etc.
 
@@ -67,10 +67,10 @@ twitter: follow 100 accounts, use lists, daily: #TIL #cs395s20
 
 At the end of the class, each student will have:
 
-* GitHub account + sofware / data repos resulting from class work
-* Research identities: Google Scholar, ORCID, Twitter, LinkedIn, ResearchGate
-* Two submitted (or ready-to-submit, if the solicitation is not yet open) proposals: one to the [Virginia Space Grant Consortium](http://vsgc.odu.edu/scholarships-fellowships/) (VSGC) and one to the [National Science Foundation Graduate Research Fellowship Program](https://www.nsf.gov/pubs/2019/nsf19590/nsf19590.htm) (GRFP)
-* One published technical report at [arXiv.org](https://www.arxiv.org), co-authored with Dr. Nelson and possibly other faculty and students from the [Web Sciences and Digital Libraries Research Group](http://ws-dl.cs.odu.edu)
+* GitHub account + software / data repos resulting from class work
+* A professional identity, via a Google Scholar account, Twitter account, LinkedIn account, etc.
+* At least one submitted proposal to an external agency
+* At least one published technical report at [arXiv.org](https://www.arxiv.org), co-authored with Dr. Nelson and possibly other faculty and students from the [Web Sciences and Digital Libraries Research Group](https://ws-dl.cs.odu.edu/Main/People)
 
 ### Class Grading 
 
