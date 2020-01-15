@@ -1,0 +1,132 @@
+CS 395 - Research Methods in Data and Web Science
+
+Spring 2020
+
+CRN: 31962
+
+Instructor: Michael L. Nelson <mln@cs.odu.edu>
+                http://www.cs.odu.edu/~mln/
+
+Office Hours: W, 2:00-4:00 and by appointment
+
+Time: W 4:20 - 7:00 pm
+
+Place: Dragas, r. 1102
+
+Prerequisites/corequisites: CS 330, CS 300T, or instructor permission;
+familiarity with Unix and the command line.
+
+Attendance Policy: Attendance is required for class participation,
+presentation, and discussion.  Absences must cleared with the
+instructor prior to class.  You are responsible for everything that
+is said, discussed, and presented during class.
+
+
+Grading: 
+
+   The class grade will consist of 11 Assignments of 10 points each,
+   with an additional 20 points based on class and online participation.
+   This is built-in extra credit, with a maximum possible score of
+   130/100.  Some of the assignments will require presentation/demoing
+   in class.  Late assignments lose 3 points for every 24 hours
+   they are late unless prior arrangements are made with the
+   intstuctor.  Assignment descriptions and due dates will be
+   released on a rolling basis during the semester.
+
+   Grading Scale:
+	A  = 100-92
+	A- = 91-90
+	B+ = 89-87
+	B  = 86-82
+	B- = 81-80
+	C+ = 79-77
+	C  = 76-72
+	C- = 71-70
+	D+ = 69-67
+	D  = 66-62
+	D- = 61-60
+	F  = 59-00
+
+Class Web Page:
+
+   https://github.com/phonedude/cs395-s20
+
+Class Email List:
+
+   http://groups.google.com/group/cs395-s20/
+   You need to register yourself to this list.
+   All class announcements will go to this email list.
+
+Class Textbook:
+
+   None.  Class readings will be posted on the class web page.
+
+Disability Services:
+
+   In compliance with PL94-142 and more recent federal legislation
+   affirming the rights of disabled individuals, provisions will
+   be made for students with special needs on an individual basis.
+   The student must have been identified as special needs by the
+   university and an appropriate letter must be provided to the
+   course instructor.  Provision will be made based upon written
+   guidelines from the University's Office of Educational Accessibility
+   (http://www.odu.edu/educationalaccessibility). All students are
+   expected to fulfill all course requirements.
+
+   Students are encouraged to self-disclose disabilities that have
+   been verified by the Office of Educational Accessibility by
+   providing Accommodation Letters to their instructors early in
+   the semester in order to start receiving accommodations.
+   Accommodations will not be made until the Accommodation Letters
+   are provided to instructors each semester.
+
+ODU Honor Code:
+
+  Please familiarize yourself with the ODU Honor Code:
+
+  https://www.odu.edu/about/monarchcitizenship
+
+  especially resources pertaining to plagiarism and academic integrity:
+
+  https://graduate.cs.odu.edu/resources/academic-integrity/
+
+The following statements apply to this class and come from:
+
+  https://odu.edu/facultystaff/teaching/conduct-integrity
+
+  Old Dominion University is committed to students' personal and
+  academic success. In order to achieve this vision, students,
+  faculty, and staff work together to create an environment that
+  provides the best opportunity for academic inquiry and learning.
+  All students must be honest and forthright in their academic
+  studies. Your work in this course and classroom behavior must
+  align with the expectations outlined in the Code of Student
+  Conduct, which can be found at www.odu.edu/oscai. The following
+  behaviors along with classroom disruptions violate this policy,
+  corrupt the educational process, and will not be tolerated.
+
+  Cheating: Using unauthorized assistance, materials, study aids,
+  or other information in any academic exercise.
+
+  Plagiarism: Using someone else’s language, ideas, or other original
+  material without acknowledging its source in any academic exercise.
+
+  Fabrication: Inventing, altering or falsifying any data, citation
+  or information in any academic exercise.
+
+  Facilitation: Helping another student commit, or attempt to commit,
+  any Academic Integrity violation, or failure to report suspected
+  Academic Integrity violations to a faculty member.
+
+
+  Any evidence of an academic integrity violation (cheating) will
+  result in a 0 grade for the assignment/exam, and the incident
+  will be submitted to the Department of Computer Science for further
+  review. Note that academic integrity violations can result in a
+  permanent notation being placed on the student's transcript or
+  even expulsion from the University. Evidence of cheating may
+  include a student being unable to satisfactorily answer questions
+  asked by the instructor about a submitted solution. Cheating
+  includes not only receiving unauthorized assistance, but also
+  giving unauthorized assistance.
+
