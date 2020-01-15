@@ -24,16 +24,13 @@ This class is intended for academic juniors (or higher) considering a career in 
 
 * Participating in the scholarly communication process: reading and summarizing papers, preparing and giving presentations, documenting your own research findings, the spectrum of scholarly communication, etc.
 
-* Preparing proposals: students will read, review, and finally prepare their own actual research proposal(s) to be submitted to places like the National Science Foundation (NSF), Virginia Space Grant Consortium (VSGC), National Aeronautics and Space Administration (NASA), and others as idenfitied.  
+* Preparing proposals: students will read, review, and finally prepare their own actual research proposals to be submitted to places like the National Science Foundation (NSF), Virginia Space Grant Consortium (VSGC), National Aeronautics and Space Administration (NASA), and others as idenfitied (and pending the student's eligibility).  
 
 * Reproducibility and Replicability: students will work in teams to identify published data and web science studies that they will [reproduce and/or replicate](https://phys.org/news/2019-05-replicability-science.html). 
 
 ### Class Schedule
 
 Note: this class schedule is subject to change.  Watch the class repo and monitor the class email list for updates.
-
-get accounts: Google Scholar, Twitter, LinkedIn, ResearchGate, ORCID
-twitter: follow 100 accounts, use lists, daily: #TIL #cs395s20
 
 * 2020-01-15: Administrivia, scholarly communication, web science, research and grad school
   * assignment 1: research identity, VSGC proposal
@@ -69,8 +66,8 @@ At the end of the class, each student will have:
 
 * GitHub account + software / data repos resulting from class work
 * A professional identity, via a Google Scholar account, Twitter account, LinkedIn account, etc.
-* At least one submitted proposal to an external agency
-* At least one published technical report at [arXiv.org](https://www.arxiv.org), co-authored with Dr. Nelson and possibly other faculty and students from the [Web Sciences and Digital Libraries Research Group](https://ws-dl.cs.odu.edu/Main/People)
+* Two submitted (or ready to submit, pending the solicitation's availability) proposals: [Virginia Space Grant Consortium](http://vsgc.odu.edu/scholarships-fellowships/)(VSGC) and the [National Science Foundation (NSF) Graduate Research Fellowship Program (GRFP)](https://www.nsf.gov/pubs/2019/nsf19590/nsf19590.htm)
+* One published technical report at [arXiv.org](https://www.arxiv.org), co-authored with Dr. Nelson and possibly other faculty and students from the [Web Sciences and Digital Libraries Research Group](https://ws-dl.cs.odu.edu/Main/People). 
 
 ### Class Grading 
 
