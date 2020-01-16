@@ -38,7 +38,7 @@ Note: this class schedule is subject to change.  Watch the class repo and monito
   * [assignment 2: VSGC status presentation](assignments/assignment-02.md)
 * 2020-01-29: HTTP mechanics, web archiving, reproducibility
   * assignment 3: VSGC status presentation & submission (Jan 31)
-* 2020-02-05: Guest lecture (MLN traveling): AWS, Docker, LaTeX/Interleaf, CLI
+* 2020-02-05: Guest lecture (MLN traveling): AWS, Docker, LaTeX/Overleaf, CLI
 * 2020-02-12: Student presentations
   * assignment 4: paper 1
 * 2020-02-19: GRA guest lecture(s)
