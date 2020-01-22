@@ -24,7 +24,7 @@ There are multiple parts:
 
 # Part 2 - \#cs395s20 \#TIL 
 
-* Using your Twitter account, before each class retweet (RT) an interesting Data Science or Web Science tool, data set, analysis, research result, commentary, etc. that you will discuss with the class for 3-5 minutes.  When you "quote tweet", add a short, constructive commentary along with the hashtags "\#cs395s20 \#TIL" 
+* Using your Twitter account, before each class retweet (RT) an interesting Data Science or Web Science tool, data set, analysis, research result, commentary, etc. that you will discuss with the class for 3-5 minutes.  When you "quote tweet", add a short, constructive commentary along with the hashtags "[\#cs395s20 \#TIL](https://twitter.com/search?q=%23cs395s20%20%23TIL&src=typed_query&f=live)" 
 
 * We will repeat the "\#cs395s20 \#TIL" excercise at the start of every class.  The purpose is to engage you with current events.
 
