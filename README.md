@@ -34,7 +34,7 @@ Note: this class schedule is subject to change.  Watch the class repo and monito
 
 * 2020-01-15: Administrivia, [scholarly communication](https://docs.google.com/presentation/d/1IwxSSkiDute5iwphX5_xbLly3cm85Hgo08BX1s1SlzA/edit), [web science](https://docs.google.com/presentation/d/1oGOZvGCgv9cbWKuAbxNZxm4cqxB8xk7SEKXBzeSTf5I/edit), [research and grad school](https://docs.google.com/presentation/d/1YLwdWU1VZ-WecnrLvSwp8WKIDODWcFM-_dQ7vGP2BBA/edit)
   * [assignment 1: research identity, VSGC proposal](assignments/assignment-01.md)
-* 2020-01-22: MLN research retrospective, Python, R, Git/GitHub
+* 2020-01-22: MLN research retrospective, [Python](https://cs531-f19.github.io/slides/lecture-05-python.pdf), R [1](https://sites.harding.edu/fmccown/r/)[2](https://www.cs.odu.edu/~mweigle/courses/cs795/mklein-IntroR/lecture/), [3](https://www.tutorialspoint.com/r/index.htm), Git/GitHub [1](https://guides.github.com/introduction/git-handbook/), [2](https://www.youtube.com/watch?v=0fKg7e37bQE)
   * [assignment 2: VSGC status presentation](assignments/assignment-02.md)
 * 2020-01-29: HTTP mechanics, web archiving, reproducibility
   * assignment 3: VSGC status presentation & submission (Jan 31)
