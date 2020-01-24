@@ -1,8 +1,8 @@
-##Submissions for njenn001
+#Submissions for njenn001
 
 ### Assignment 1 Details
 
-####Profile links
+###Profile links
 
 ``` 
 https://scholar.google.com/citations?hl=en&user=zo4Lx0uIZJkC
