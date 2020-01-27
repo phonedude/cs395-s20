@@ -37,7 +37,7 @@ Note: this class schedule is subject to change.  Watch the class repo and monito
 * 2020-01-22: MLN research retrospective, [Python](https://cs531-f19.github.io/slides/lecture-05-python.pdf), R [1](https://sites.harding.edu/fmccown/r/), [2](https://www.cs.odu.edu/~mweigle/courses/cs795/mklein-IntroR/lecture/), [3](https://www.tutorialspoint.com/r/index.htm), Git/GitHub [1](https://guides.github.com/introduction/git-handbook/), [2](https://www.youtube.com/watch?v=0fKg7e37bQE#t=4m20s)
   * [assignment 2: VSGC status presentation](assignments/assignment-02.md)
 * 2020-01-29: HTTP mechanics, web archiving, reproducibility
-  * assignment 3: VSGC status presentation & submission (Jan 31)
+  * [assignment 3: VSGC status presentation & submission](assignments/assignment-03.md) (Jan 31)
 * 2020-02-05: Guest lecture (MLN traveling): AWS, Docker, LaTeX/Overleaf, CLI
 * 2020-02-12: Student presentations
   * assignment 4: paper 1
