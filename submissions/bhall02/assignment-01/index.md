@@ -1,6 +1,7 @@
 ### Assignment 1
 ### Profile Links
 ```
+Google scholar account?
 https://orcid.org/0000-0002-1534-4098
 https://www.researchgate.net/profile/Breonna_Hall
 https://www.slideshare.net/BREONNAHALL
