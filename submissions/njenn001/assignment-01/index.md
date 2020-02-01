@@ -11,7 +11,7 @@
 * [Slide Share](https://www.slideshare.net/NoahJennings2)
 * [Linkedin](https://www.linkedin.com/in/noah-jennings-329145187/)
 * [Github](https://github.com/njenn001)
-
+* [Twitter](https://twitter.com/Nej1E)
 
 ### VSGC Proposal 
 [vsgc](../assignment-03/VSGC.pdf)
