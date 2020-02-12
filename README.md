@@ -41,7 +41,7 @@ Note: this class schedule is subject to change.  Watch the class repo and monito
 * 2020-02-05: Guest lecture (MLN traveling): AWS [1](https://aws.amazon.com/getting-started/tutorials/launch-a-virtual-machine/), [2](https://github.com/phonedude/cs531-f18/blob/master/slides/Setting%20up%20a%20server%20in%20AWS.pptx), Docker [1](https://www.slideshare.net/ibnesayeed/introducing-docker-application-containerization-service-orchestration), [2](https://training.play-with-docker.com/microservice-orchestration/), LaTeX/Overleaf [1](https://www.overleaf.com/learn/latex/Free_online_introduction_to_LaTeX_(part_1)), [2](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes), [3](https://github.com/oduwsdl/acm-paper-template), CLI [1](https://missing.csail.mit.edu/)
 * 2020-02-12: Web archiving wrap-up, "[How to Read a Paper](http://blizzard.cs.uwaterloo.ca/keshav/home/Papers/data/07/paper-reading.pdf)", "[Academic Communication (presenting)](https://docs.google.com/presentation/d/1Ec3MHCGB99TqsRTelyy5EcjQWeLjA5v5tZl9zABadko/edit)"
 * 2020-02-19: GRA guest lecture(s), Student presentations, Reproducibility [1](https://www.slideshare.net/pgroth/ideals-and-norms-in-scholarhsip),[2](https://www.slideshare.net/carolegoble/what-is-reproducibility-the-r-brouhaha-and-how-research-objects-can-help)
-  * assignment 4: paper 1
+  * [assignment 4: paper 1](assignments/assignment-04.md)
 * 2020-02-26: Student presentations
   * assignment 5: paper 2 
 * 2020-03-04: Faculty guest lecture, What is grad school?, NSF GRFP
