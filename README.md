@@ -42,7 +42,7 @@ Note: this class schedule is subject to change.  Watch the class repo and monito
 * 2020-02-12: Web archiving wrap-up, "[How to Read a Paper](http://blizzard.cs.uwaterloo.ca/keshav/home/Papers/data/07/paper-reading.pdf)", "[Academic Communication (presenting)](https://docs.google.com/presentation/d/1Ec3MHCGB99TqsRTelyy5EcjQWeLjA5v5tZl9zABadko/edit)"
 * 2020-02-19: Student presentations, Reproducibility [1](https://www.slideshare.net/pgroth/ideals-and-norms-in-scholarhsip),[2](https://www.slideshare.net/carolegoble/what-is-reproducibility-the-r-brouhaha-and-how-research-objects-can-help)
   * [assignment 4: paper 1](assignments/assignment-04.md)
-* 2020-02-26: GRA guest lecture(s), Student presentations
+* 2020-02-26: Guest lecture: [Alexander Nwala](https://twitter.com/acnwala) and "[Micro-collections](https://twitter.com/acnwala/status/1180151672493862912)", Student presentations
   * [assignment 5: paper 2](assignments/assignment-05.md)
 * 2020-03-04: Faculty guest lecture, What is grad school?, NSF GRFP
   * assignment 6: choose your paper, submit a research/reproducibility plan 
