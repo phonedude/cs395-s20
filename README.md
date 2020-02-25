@@ -49,8 +49,8 @@ Note: this class schedule is subject to change.  Watch the class repo and monito
 * 2020-03-11: Spring Break -- no class
 * 2020-03-18: Student presentations
   * assignment 7: research paper status update
-* 2020-03-25: GRA guest lecture(s), TBD
-* 2020-04-01: Faculty guest lecture(s), Student presentations
+* 2020-03-25: Guest lecture(s), TBD
+* 2020-04-01: Guest lecture(s), Student presentations
   * assignment 8: NSF GRFP status update
 * 2020-04-08: TBD 
 * 2020-04-15: Student presentations
