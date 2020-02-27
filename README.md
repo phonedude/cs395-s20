@@ -45,7 +45,7 @@ Note: this class schedule is subject to change.  Watch the class repo and monito
 * 2020-02-26: Guest lecture: [Alexander Nwala](https://twitter.com/acnwala) and "[Micro-collections](https://twitter.com/acnwala/status/1180151672493862912)", Student presentations
   * [assignment 5: paper 2](assignments/assignment-05.md)
 * 2020-03-04: Guest lecture: [Kritika Garg](https://twitter.com/kritika_garg), What is grad school?, NSF GRFP
-  * assignment 6: choose your paper, submit a research/reproducibility plan 
+  * [assignment 6: choose your paper, submit a research/reproducibility plan](assignments/assignment-06.md)
 * 2020-03-11: Spring Break -- no class
 * 2020-03-18: Student presentations
   * assignment 7: research paper status update
