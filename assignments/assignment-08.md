@@ -1,6 +1,6 @@
 # Assignment 08 - NSF GRFP Presentation
 
-# Due: 2020-03-25, in-class presentation 
+# Due: 2020-04-08, in-class presentation 
 
 The purpose of this assignment is to report your status on your NSF GRFP application.  
 

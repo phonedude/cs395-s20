@@ -44,15 +44,15 @@ Note: this class schedule is subject to change.  Watch the class repo and monito
   * [assignment 4: paper 1](assignments/assignment-04.md)
 * 2020-02-26: Guest lecture: [Alexander Nwala](https://twitter.com/acnwala) and "[Micro-collections](https://twitter.com/acnwala/status/1180151672493862912)", Student presentations
   * [assignment 5: paper 2](assignments/assignment-05.md)
-* 2020-03-04: Guest lecture: [Kritika Garg](https://twitter.com/kritika_garg) and "[ Topic Lifecycle on Social Networks](https://www.slideshare.net/KritikaGarg10/ecir-2018-topic-lifecyclespptx)", "[Academic Communication (writing)](https://docs.google.com/presentation/d/1BupEndl0RBO0n37En6BEnEdv1O3myIBVxlJyj-DA5xk/edit) (slides 30--78), NSF GRFP
+* 2020-03-04: Guest lecture: [Kritika Garg](https://twitter.com/kritika_garg) and "[Topic Lifecycle on Social Networks](https://www.slideshare.net/KritikaGarg10/ecir-2018-topic-lifecyclespptx)", "[Academic Communication (writing)](https://docs.google.com/presentation/d/1BupEndl0RBO0n37En6BEnEdv1O3myIBVxlJyj-DA5xk/edit) (slides 30--78), NSF GRFP
   * [assignment 6: choose your paper, submit a research/reproducibility plan](assignments/assignment-06.md)
 * 2020-03-11: Spring Break -- no class
-* 2020-03-18: Student presentations
+* 2020-03-18: Second Spring Break -- [Coronavirus](https://twitter.com/ODU/status/1237876705898852354)
+* 2020-03-25: Guest lecture: [Gavindya Jayawardena](https://twitter.com/Gavindya2)
   * [assignment 7: research paper status update](assignments/assignment-07.md)
-* 2020-03-25: Guest lecture: [Gavindya Jayawardena](https://twitter.com/Gavindya2), TBD
-* 2020-04-01: Guest lecture(s), Student presentations
+* 2020-04-01: Guest lecture: [Bhanuka Mahanama](https://twitter.com/mahanama94)
+* 2020-04-08: Guest lecture: [Yasith Jayawardana](https://twitter.com/yasithmilinda)
   * [assignment 8: NSF GRFP status update](assignments/assignment-08.md)
-* 2020-04-08: TBD 
 * 2020-04-15: Student presentations
   * assignment 9: research paper status update
 * 2020-04-22: TBD
