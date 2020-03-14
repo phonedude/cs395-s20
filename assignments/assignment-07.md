@@ -1,6 +1,6 @@
 # Assignment 07 - Group Presentation(s)
 
-# Due: 2020-03-18, in-class presentation 
+# Due: 2020-03-25, in-class presentation 
 
 The purpose of this assignment is to report your status on your paper.
 
