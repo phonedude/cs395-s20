@@ -50,7 +50,7 @@ Note: this class schedule is subject to change.  Watch the class repo and monito
 * 2020-03-18: Second Spring Break -- [Coronavirus](https://twitter.com/ODU/status/1237876705898852354)
 * 2020-03-25: Guest lecture: [Gavindya Jayawardena](https://twitter.com/Gavindya2) and "[Eye-Tracking for Assessing Speech-In-Noise Performance of Adults with ADHD](https://docs.google.com/presentation/d/1Rx4MRgMdDqX0pTSp8hu299h_rKOlYPtig1dhWUFnrM0/edit)"
   * [assignment 7: research paper status update](assignments/assignment-07.md)
-* 2020-04-01: Guest lecture: [Bhanuka Mahanama](https://twitter.com/mahanama94)
+* 2020-04-01: Guest lecture: [Bhanuka Mahanama](https://twitter.com/mahanama94) and "[MGaze: Multi-Gaze Interactions](https://docs.google.com/presentation/d/1zIN_YFy1rBnfAMnR5WSw67F8xdzDkhB8nphZmDULxok/edit)"
 * 2020-04-08: Guest lecture: [Yasith Jayawardana](https://twitter.com/yasithmilinda)
   * [assignment 8: NSF GRFP status update](assignments/assignment-08.md)
 * 2020-04-15: Student presentations
