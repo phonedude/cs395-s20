@@ -1,8 +1,7 @@
 # Assignment 08 - NSF GRFP Presentation
 
 # Due: 2020-04-08, in-class presentation 
-
-test
+# Coronavirus / Covid19 update: NSF GRFP is now optional.
 
 The purpose of this assignment is to report your status on your NSF GRFP application.  
 
