@@ -53,8 +53,14 @@ Note: this class schedule is subject to change.  Watch the class repo and monito
 * 2020-04-01: Guest lecture: [Bhanuka Mahanama](https://twitter.com/mahanama94) and "[MGaze: Multi-Gaze Interactions](https://docs.google.com/presentation/d/1zIN_YFy1rBnfAMnR5WSw67F8xdzDkhB8nphZmDULxok/edit)"
   * Branches: "[Don’t Mess with the Master: Working with Branches in Git and GitHub](https://thenewstack.io/dont-mess-with-the-master-working-with-branches-in-git-and-github/)", "[Git Branching - Branches in a Nutshell](https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell)", "[Git Branching - Basic Branching and Merging](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging)", "[Git & GitHub Tutorial for Beginners #8 - Branches](https://www.youtube.com/watch?v=QV0kVNvkMxc)", "[Git & GitHub Tutorial for Beginners #9 - Merging Branches (& conflicts)](https://www.youtube.com/watch?v=XX-Kct0PfFc)"
   * Travis CI & pytest: "[Core Concepts for Beginners](https://docs.travis-ci.com/user/for-beginners/)", "[Testing Python with Travis CI in Just 3 Steps](https://www.smartfile.com/blog/testing-python-with-travis-ci/)", "[pytest: Installation and Getting Started](https://docs.pytest.org/en/latest/getting-started.html)"
-* 2020-04-08: Guest lecture: [Yasith Jayawardana](https://twitter.com/yasithmilinda) and "[Diagnosing ASD from Brain Activity](https://bit.ly/39mg3zG)"
-  * [assignment 8: NSF GRFP status update](assignments/assignment-08.md)
+* 2020-04-08: Guest lecture: [Yasith Jayawardana](https://twitter.com/yasithmilinda) and "[Diagnosing ASD from Brain Activity](https://bit.ly/39mg3zG)", evaluation backgroiund
+  * "[Introduction to Statistics: Levels of Measurement](https://www.youtube.com/watch?v=B0ABvLa_u88)"
+  * "[Mode, Median, Mean, Range, and Standard Deviation](https://www.youtube.com/watch?v=mk8tOD0t8M0)"
+  * "[The Five Number Summary, Boxplots, and Outliers](https://www.youtube.com/watch?v=tpToLyZibKM)"
+  * "[Symmetry and Skewness](https://www.youtube.com/watch?v=pfujiA5Mk_U)"
+  * "[Density Curves and their Properties](https://www.youtube.com/watch?v=Txlm4ORI4Gs)"
+  * "[The Normal Distribution and the 68-95-99.7 Rule](https://www.youtube.com/watch?v=mtbJbDwqWLE)"
+  * [assignment 8: NSF GRFP status update (now optional)](assignments/assignment-08.md)
 * 2020-04-15: Student presentations
   * assignment 9: research paper status update
 * 2020-04-22: TBD
