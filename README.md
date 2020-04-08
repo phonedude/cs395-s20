@@ -62,7 +62,7 @@ Note: this class schedule is subject to change.  Watch the class repo and monito
   * "[The Normal Distribution and the 68-95-99.7 Rule](https://www.youtube.com/watch?v=mtbJbDwqWLE)"
   * [assignment 8: NSF GRFP status update (now optional)](assignments/assignment-08.md)
 * 2020-04-15: Student presentations
-  * assignment 9: research paper status update
+  * [assignment 9: research paper status update](assignments/assignment-09.md)
 * 2020-04-22: TBD
   * assignment 10: ready to submit: NSF GRFP
 * 2020-04-29: Exams -- no class 
