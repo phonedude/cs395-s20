@@ -61,9 +61,9 @@ Note: this class schedule is subject to change.  Watch the class repo and monito
   * "[Density Curves and their Properties](https://www.youtube.com/watch?v=Txlm4ORI4Gs)"
   * "[The Normal Distribution and the 68-95-99.7 Rule](https://www.youtube.com/watch?v=mtbJbDwqWLE)"
   * [assignment 8: NSF GRFP status update (now optional)](assignments/assignment-08.md)
-* 2020-04-15: Student presentations
+* 2020-04-15: Guest lecture: [Shawn Jones](https://twitter.com/shawnmjones)
   * [assignment 9: research paper status update](assignments/assignment-09.md)
-* 2020-04-22: TBD
+* 2020-04-22: Guest lecture: [Abigail Mabe](https://twitter.com/abigail_mabe) and [Dhruv Patel](https://twitter.com/dhruv_282)
   * assignment 10: ready to submit: NSF GRFP
 * 2020-04-29: Exams -- no class 
   * assignment 11: ready to submit: research paper
