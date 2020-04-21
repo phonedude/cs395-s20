@@ -64,7 +64,9 @@ Note: this class schedule is subject to change.  Watch the class repo and monito
 * 2020-04-15: Guest lecture: [Shawn Jones](https://twitter.com/shawnmjones) and "[Storytelling with web archives](https://www.slideshare.net/shawnmjones/storytelling-with-web-archives)", "[Social Cards Probably Provide For Better Understanding Of Web Archive Collections](https://www.slideshare.net/shawnmjones/social-cards-probably-provide-for-better-understanding-of-web-archive-collections)"
   * [assignment 9: research paper status update](assignments/assignment-09.md)
   * [Precision, Recall, F1](slides/precision-recall.ppt)
-* 2020-04-22: Guest lecture: [Abigail Mabe](https://twitter.com/abigail_mabe) and [Dhruv Patel](https://twitter.com/dhruv_282)
+* 2020-04-22: Guest lecture: [Abigail Mabe](https://twitter.com/abigail_mabe) and [Dhruv Patel](https://twitter.com/dhruv_282) and "[TimeMap Visualization](http://tmvis.cs.odu.edu/)"
+  * "[Types of Sampling Methods](https://www.youtube.com/watch?v=pTuj57uXWlk)"
+  * "[How Much of the Web is Archived?](https://ws-dl.blogspot.com/2011/06/2011-06-23-how-much-of-web-is-archived.html)"
   * assignment 10: ready to submit: NSF GRFP
 * 2020-04-29: Exams -- no class 
   * assignment 11: ready to submit: research paper
